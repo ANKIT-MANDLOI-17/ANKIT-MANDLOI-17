@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **ankitmandloi92425@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1I6kOqVTH9pOOtX5H3EbZWPjmd19AUVdQYAiqCSwdFDg/edit?usp=drive_link](https://docs.google.com/document/d/1I6kOqVTH9pOOtX5H3EbZWPjmd19AUVdQYAiqCSwdFDg/edit?usp=drive_link)
+- 📄 Know about my experiences [ankitmandloi.com](https://docs.google.com/document/d/1I6kOqVTH9pOOtX5H3EbZWPjmd19AUVdQYAiqCSwdFDg/edit?usp=drive_link)
 
-- ⚡ Fun fact **There is no fact.**
+- ⚡ Fun fact **Here is no fact.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
