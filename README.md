@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-mandloi-17" alt="ankit-mandloi-17" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://e-shope-theta.vercel.app/](https://e-shope-theta.vercel.app/)
+- 👨‍💻 All of my projects are available at [MyPortfolio.com](https://ankit-mandloi-portfolio.vercel.app/)
 
 - 💬 Ask me about **React ,JavaScript**
 
